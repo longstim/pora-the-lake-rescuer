@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StaticLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Place>Parbaba</Place>
+  <Name>L01</Name>
+  <Creator>NED Studio</Creator>
+  <CreatedDate>0001-01-01T07:00:00+07:00</CreatedDate>
+  <CreatedDateInUtc>0001-01-01T07:00:00+07:00</CreatedDateInUtc>
+  <Version>0</Version>
+  <Rubbishes>
+    <Sampah>
+      <PackageName>Default</PackageName>
+      <Position>
+        <x>-82.49999</x>
+        <y>-50.625</y>
+        <z>-30</z>
+      </Position>
+      <Size>One</Size>
+      <Rotation>0</Rotation>
+      <RotationSpeed>0</RotationSpeed>
+    </Sampah>
+  </Rubbishes>
+  <Barriers />
+  <Bubbles>
+    <Gelembung>
+      <PackageName>Default</PackageName>
+      <Type>White</Type>
+      <Define>true</Define>
+    </Gelembung>
+    <Gelembung>
+      <PackageName>Default</PackageName>
+      <Type>White</Type>
+      <Define>true</Define>
+    </Gelembung>
+  </Bubbles>
+  <HighScore>0</HighScore>
+  <ScoreFor1Star>1000</ScoreFor1Star>
+  <ScoreFor2Star>1300</ScoreFor2Star>
+  <ScoreFor3Star>1500</ScoreFor3Star>
+  <Level>0</Level>
+  <WhiteQuantity>0</WhiteQuantity>
+  <RedQuantity>0</RedQuantity>
+  <OrangeQuantity>0</OrangeQuantity>
+</StaticLevel>

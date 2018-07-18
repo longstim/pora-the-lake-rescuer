@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f68377f6ab0bb2d459eaebba5576f564
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - detectorCollider: {instanceID: 0}
+  - realCollider: {instanceID: 0}
+  - whiteBubbleDecoration: {fileID: 150644, guid: 2d8669174930bfa468a055c17c1dbbf4,
+      type: 2}
+  - redBubbleDecoration: {fileID: 175196, guid: 89aa66e00bb17224e8e88405d340e0e1,
+      type: 2}
+  - orangeBubbleDecoration: {fileID: 147002, guid: 991b393b98a6a9547a29e726737976a1,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

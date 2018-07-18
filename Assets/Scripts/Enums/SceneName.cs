@@ -1,0 +1,21 @@
+﻿public enum SceneName {
+    SplashNED,
+    SplashPora,
+	Story,
+    Main,
+    ChooseMode,
+    ChoosePlace,
+    ChooseLevelParbaba,
+    ChooseLevelBatuguru,
+    ChooseLevelParapat,
+    ChooseLevelTomok,
+    PrePlay,
+    PlayParbaba,
+    PlayBatuguru,
+    PlayParapat,
+    PlayTomok,
+    LevelEditorCreate,
+    Store,
+    LevelEditorMenu,
+    LoadingContentScene
+}
