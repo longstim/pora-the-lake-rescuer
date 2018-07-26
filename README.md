@@ -1,6 +1,6 @@
 # Pora the Lake Rescuer
 
-Mobile puzzle game on android platform about a fish that clean the lake using bubble weapon. This game was built with [Unity3D](https://unity3d.com/).
+Mobile puzzle game on android platform about a fish that clean the lake using bubble gun which also drives home the importance of environmental conservation. This game was built with [Unity3D](https://unity3d.com/).
 
 ![pora-the-lake-rescuer](http://longstim.github.io/img/portfolio/pora-the-lake-rescuer.jpg)
 
